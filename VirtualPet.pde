@@ -28,7 +28,7 @@ void draw(){
   ellipse(305,125,10,10); 
 
   // Beak
-  fill(255, 200, 0);
+  fill(256,210,0);
   triangle(240, 150, 260, 150, 250, 170);
 
   // Wings
@@ -37,13 +37,13 @@ void draw(){
   ellipse(380,280,60,120); 
   
   //wing detail
-  fill(82, 62, 42);
-  ellipse(120, 280, 40, 100);
-  ellipse(380, 280, 40, 100);
+  fill(82,62,42);
+  ellipse(120,280,40,100);
+  ellipse(380,280,40,100);
   
   // Talons
-  fill(170, 158, 100);
-  ellipse(220, 440, 10, 20);
-  ellipse(280, 440, 10, 20);
+  fill(170,158,100);
+  ellipse(220,440,10, 20);
+  ellipse(280,440,10, 20);
 }
 
