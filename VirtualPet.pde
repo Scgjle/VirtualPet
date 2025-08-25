@@ -49,8 +49,7 @@ void draw(){
   strokeWeight(0);
   
   // Talons
-  fill(170, 158, 100);
+  stroke(170, 158, 100);
   ellipse(220, 440, 10, 20);
   ellipse(250, 440, 10, 20);
   ellipse(280, 440, 10, 20);
-}
